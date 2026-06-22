@@ -5,7 +5,7 @@ public:
      int start = 0;
      int end = n-1;  
      int sum; 
-     while(start<=end){
+     while(start<end){
         sum = nums[start] + nums[end];
         if(sum == target ){
             return {start+1,end+1};
