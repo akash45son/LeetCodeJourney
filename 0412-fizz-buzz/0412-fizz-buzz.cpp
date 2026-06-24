@@ -9,9 +9,6 @@ public:
             else if(i>=3 && i%3==0){
                 ans.push_back("Fizz");
             }
-            else if(i>=5 && i%5==0 && i%3==0){
-                ans.push_back("FizzBuzz");
-            }
             else if(i>=5 && i%5==0){
                 ans.push_back("Buzz");
             }
