@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akash45son/LeetCodeJourney/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/akash45son/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akash45son/LeetCodeJourney/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -37,5 +38,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/akash45son/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash45son/LeetCodeJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/akash45son/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
