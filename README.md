@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0344-reverse-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -16,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/akash45son/LeetCodeJourney/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akash45son/LeetCodeJourney/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Array
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
