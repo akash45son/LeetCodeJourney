@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/akash45son/LeetCodeJourney/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/akash45son/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0643-maximum-average-subarray-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash45son/LeetCodeJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/akash45son/LeetCodeJourney/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
