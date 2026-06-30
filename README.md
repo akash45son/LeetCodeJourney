@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akash45son/LeetCodeJourney/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/akash45son/LeetCodeJourney/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/akash45son/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/akash45son/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/akash45son/LeetCodeJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/akash45son/LeetCodeJourney/tree/master/0485-max-consecutive-ones) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akash45son/LeetCodeJourney/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/akash45son/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/akash45son/LeetCodeJourney/tree/master/0203-remove-linked-list-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/akash45son/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
