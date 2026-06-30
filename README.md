@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/akash45son/LeetCodeJourney/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/akash45son/LeetCodeJourney/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash45son/LeetCodeJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/akash45son/LeetCodeJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/akash45son/LeetCodeJourney/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/akash45son/LeetCodeJourney/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -81,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/akash45son/LeetCodeJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/akash45son/LeetCodeJourney/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/akash45son/LeetCodeJourney/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akash45son/LeetCodeJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/akash45son/LeetCodeJourney/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/akash45son/LeetCodeJourney/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
