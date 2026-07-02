@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akash45son/LeetCodeJourney/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/akash45son/LeetCodeJourney/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/akash45son/LeetCodeJourney/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/akash45son/LeetCodeJourney/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0876-middle-of-the-linked-list](https://github.com/akash45son/LeetCodeJourney/tree/master/0876-middle-of-the-linked-list) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/akash45son/LeetCodeJourney/tree/master/0141-linked-list-cycle) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akash45son/LeetCodeJourney/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akash45son/LeetCodeJourney/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/akash45son/LeetCodeJourney/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/akash45son/LeetCodeJourney/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/akash45son/LeetCodeJourney/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/akash45son/LeetCodeJourney/tree/master/0876-middle-of-the-linked-list) |
