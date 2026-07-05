@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akash45son/LeetCodeJourney/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akash45son/LeetCodeJourney/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/akash45son/LeetCodeJourney/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akash45son/LeetCodeJourney/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/akash45son/LeetCodeJourney/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/akash45son/LeetCodeJourney/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/akash45son/LeetCodeJourney/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/akash45son/LeetCodeJourney/tree/master/0713-subarray-product-less-than-k) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/akash45son/LeetCodeJourney/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akash45son/LeetCodeJourney/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akash45son/LeetCodeJourney/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
