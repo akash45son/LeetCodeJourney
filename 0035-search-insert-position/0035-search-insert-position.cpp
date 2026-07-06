@@ -11,7 +11,7 @@ public:
                 ans=mid;
                 end = mid-1;
             }else{
-                start=start+1;
+                start=mid+1;
             }
         }
         return ans;
