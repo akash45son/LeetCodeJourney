@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/akash45son/LeetCodeJourney/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash45son/LeetCodeJourney/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash45son/LeetCodeJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1539-kth-missing-positive-number](https://github.com/akash45son/LeetCodeJourney/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/akash45son/LeetCodeJourney/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/akash45son/LeetCodeJourney/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/akash45son/LeetCodeJourney/tree/master/1004-max-consecutive-ones-iii) |
+| [1539-kth-missing-positive-number](https://github.com/akash45son/LeetCodeJourney/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
