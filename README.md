@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akash45son/LeetCodeJourney/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/akash45son/LeetCodeJourney/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/akash45son/LeetCodeJourney/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/akash45son/LeetCodeJourney/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/akash45son/LeetCodeJourney/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/akash45son/LeetCodeJourney/tree/master/0176-second-highest-salary) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/akash45son/LeetCodeJourney/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
