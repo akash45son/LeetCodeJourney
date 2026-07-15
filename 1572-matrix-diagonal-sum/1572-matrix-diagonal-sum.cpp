@@ -6,11 +6,13 @@ public:
         int ans = 0;
 
         for(int i = 0; i < rows; i++){
-            for(int j = 0; j < cols; j++){
-                if(i == j || i + j == rows - 1){
-                    ans += matrix[i][j];
-                }
-            }
+                
+            ans += matrix[i][i];
+            ans += matrix[i][rows-1-i];
+                
+        }
+        if(rows%2==1){
+        ans -= matrix[rows/2][cols/2];
         }
 
         return ans;
