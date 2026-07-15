@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0540-single-element-in-a-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/akash45son/LeetCodeJourney/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/akash45son/LeetCodeJourney/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/akash45son/LeetCodeJourney/tree/master/0713-subarray-product-less-than-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/akash45son/LeetCodeJourney/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/akash45son/LeetCodeJourney/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/akash45son/LeetCodeJourney/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/akash45son/LeetCodeJourney/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/akash45son/LeetCodeJourney/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/akash45son/LeetCodeJourney/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
