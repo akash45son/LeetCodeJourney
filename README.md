@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/akash45son/LeetCodeJourney/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akash45son/LeetCodeJourney/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/akash45son/LeetCodeJourney/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/akash45son/LeetCodeJourney/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/akash45son/LeetCodeJourney/tree/master/0205-isomorphic-strings) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/akash45son/LeetCodeJourney/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/akash45son/LeetCodeJourney/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/akash45son/LeetCodeJourney/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/akash45son/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/akash45son/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akash45son/LeetCodeJourney/tree/master/0075-sort-colors) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akash45son/LeetCodeJourney/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/akash45son/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/akash45son/LeetCodeJourney/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akash45son/LeetCodeJourney/tree/master/0160-intersection-of-two-linked-lists) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/akash45son/LeetCodeJourney/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akash45son/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/akash45son/LeetCodeJourney/tree/master/0242-valid-anagram) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
