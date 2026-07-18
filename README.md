@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/akash45son/LeetCodeJourney/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/akash45son/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0434-number-of-segments-in-a-string) |
 | [0796-rotate-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0796-rotate-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akash45son/LeetCodeJourney/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akash45son/LeetCodeJourney/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/akash45son/LeetCodeJourney/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/akash45son/LeetCodeJourney/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/akash45son/LeetCodeJourney/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/akash45son/LeetCodeJourney/tree/master/1572-matrix-diagonal-sum) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
