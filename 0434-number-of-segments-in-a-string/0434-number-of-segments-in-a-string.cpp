@@ -1,22 +1,13 @@
 class Solution {
 public:
     int countSegments(string s) {
-        string word;
-        vector<string> ans;
+        int count = 0;
         for(int i=0;i<s.size();i++){
-            if(s[i]!=' '){
-                word += s[i];
-            }else{
-                if(!word.empty()){
-                    ans.push_back(word);
-                    word = "";
-                }
-            }
+          if(s[i]!=' ' && (i==0 || s[i-1]==' ')){
+            count++;
+            
+          }
         }
-            if(!word.empty()){
-                ans.push_back(word);
-            }
-
-        return ans.size();
+        return count;
     }
 };
