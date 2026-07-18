@@ -2,31 +2,30 @@ class Solution {
 public:
     string reverseWords(string s) {
         int n = s.size();
-        vector<string> words;
-        string word="";
-        string ans = "";
-        for(int i=0; i<n; i++){
-            if(s[i]!=' '){
-                word+=s[i];
-            }else{
-                if(word!=""){
-                    words.push_back(word);
-                    word = "";
-                }
+       vector<string> ans;
+       string words = "";
+       for(int i=0;i<s.size();i++){
+        if(s[i]!=' '){
+            words += s[i];
+        }else{
+            if(words!=""){
+        ans.push_back(words);
+        words = "";
             }
-        }
-        if(word!=""){
-            words.push_back(word);
-        }
-
-        for(int i=words.size()-1;i>=0;i--){
-            ans+=words[i];
-            if(i!=0){
-                ans+=' ';
-            }
-            
         }
         
-    return ans;
+       }
+       if(words!=""){
+        ans.push_back(words);
+       }
+       string answer ="";
+       int m = ans.size();
+       for(int i=m-1;i>=0;i--){
+        answer += ans[i];
+        if(i!=0){
+            answer += ' ';
+       }
+       }
+       return answer;
     }
 };
