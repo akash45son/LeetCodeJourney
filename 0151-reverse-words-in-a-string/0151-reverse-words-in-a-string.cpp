@@ -8,14 +8,14 @@ public:
         if(s[i]!=' '){
             words += s[i];
         }else{
-            if(words!=""){
+            if(!words.empty()){
         ans.push_back(words);
         words = "";
             }
         }
         
        }
-       if(words!=""){
+       if(!words.empty()){
         ans.push_back(words);
        }
        string answer ="";
