@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/akash45son/LeetCodeJourney/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/akash45son/LeetCodeJourney/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0434-number-of-segments-in-a-string) |
 | [0796-rotate-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/akash45son/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akash45son/LeetCodeJourney/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
