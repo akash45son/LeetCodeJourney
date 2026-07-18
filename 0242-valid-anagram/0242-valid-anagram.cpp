@@ -14,7 +14,7 @@ public:
         }
 
         for(auto x:mp){
-            if(x.second>0){
+            if(x.second!=0){
                 return false;
             }
         }
