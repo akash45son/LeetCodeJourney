@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/akash45son/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/akash45son/LeetCodeJourney/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/akash45son/LeetCodeJourney/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/akash45son/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/akash45son/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/akash45son/LeetCodeJourney/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akash45son/LeetCodeJourney/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/akash45son/LeetCodeJourney/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
 | ------- |
