@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/akash45son/LeetCodeJourney/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/akash45son/LeetCodeJourney/tree/master/0176-second-highest-salary) |
+| [0584-find-customer-referee](https://github.com/akash45son/LeetCodeJourney/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/akash45son/LeetCodeJourney/tree/master/1757-recyclable-and-low-fat-products) |
 ## Matrix
 |  |
